@@ -34,7 +34,6 @@ namespace IndvDtaDbPrjctTest
 
             //12: Sätt betyg på en elev genom att använda Transactions - klar i SQL
 
-            //13: PDF med resonemang och reflektion om använd kod, databaser och struktur
         }
     }
 }
